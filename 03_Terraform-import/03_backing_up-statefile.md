@@ -144,7 +144,3 @@ terraform apply
 ---
 
 
-If you want, next I can:
-
-* show you **exact S3 + DynamoDB backend setup**
-* or walk you through **step-by-step re-import of a full EC2 stack safely**
